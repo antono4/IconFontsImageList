@@ -1,5 +1,8 @@
 # IconFontsImageList [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 
+> **Created by Antono**
+
+
 ## Components to simplify use of "Icon fonts": resize, color, opacity and more... with full support for High-DPI apps. Rendering optimized with GDI+
 
 ### Actual official version 2.5.1 (VCL) and 1.7.1 (FMX)
